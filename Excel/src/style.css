@@ -1,9 +1,15 @@
-h1 {
-    line-height: 28px;
-    color: blue;
-}
+.weather-app{
+    background:rgb(200, 187, 196);
+    max-width: 600px;
+    margin: 45px auto;
+    box-shadow: 0,30px,50px rgb(red, green, blue);
+    border-radius: 16px;
+    padding: 30px;
 
-p {
-    font-size: 14px;
-    line-height: 1.5;
-}
+        font-family: "Roboto", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+        font-variation-settings:
+            "wdth" 100; } 
+
